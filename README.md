@@ -1,1 +1,2 @@
-# SalaDeCineJava
+Este proyecto consiste en, por un lado, proyectar una pelicula al azar (cada una tiene ciertas probabilidades) y cargar una lista de espectadores junto a sus datos (dinero, edad y nombre), e irlos sentando en sillas en una sala de cine.<br><br>
+De base, la entrada cuesta 7€. Aleatoriamente, el espectador puede tener un descuento (25% de posibilidades), el cual descontará 5€ la entrada. Sino, si el espectador tiene entre 18 y 35 años tendrá un descuento de 3€. <br><br>
